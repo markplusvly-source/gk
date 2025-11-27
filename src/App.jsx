@@ -123,8 +123,8 @@ const answerColor   = "#333333";  // dark gray
     const qLines = getLines(ctx, question, maxWidth);
 
     // Answer Style
-    const aFontSize = 80;
-    const aLineHeight = 100;
+    const aFontSize = 95;
+    const aLineHeight = 120;
     const spacing = 150;
     ctx.font = `400 ${aFontSize}px 'Montserrat'`;
     const aText = answer;
