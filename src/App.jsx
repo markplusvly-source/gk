@@ -151,7 +151,7 @@ qLines.forEach((line) => {
 });
 
 // 6. Draw Answer (fixed position)
-ctx.font = `400 ${aFontSize}px 'Montserrat'`;
+ctx.font = `700 ${aFontSize}px 'Montserrat'`;
 ctx.fillStyle = answerColor;
 
 // Fixed Y position for answer block
